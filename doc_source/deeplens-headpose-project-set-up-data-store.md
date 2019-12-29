@@ -18,7 +18,7 @@ Follow the steps below to create the bucket and folders using the Amazon S3 cons
 
 1. Choose **\+ Create folder**, type the `headpose` as the folder name, and then choose **Save**\.
 
-1. Choose the `headpose` folder just created, and then choose **\+ Create folder** to create the four subfolders \(named `TFartifacts`, `customTFcodes`, `datasets`, `testIMs`\) under `headpose`, one at time\.
+1. Choose the `headpose` folder just created, and then choose **\+ Create folder** to create the four subfolders \(named `TFartifacts`, `customTFcodes`, `datasets`, `testIMs`\) under `headpose`, one at a time\.
 
 ![\[\]](http://docs.aws.amazon.com/deeplens/latest/dg/images/deeplens-tutorial-headpose-detection-s3-bucket-folders.png)
 
